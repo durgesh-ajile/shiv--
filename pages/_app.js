@@ -28,7 +28,7 @@ function MyApp({ Component, pageProps }) {
           href="https://png.pngtree.com/png-vector/20220207/ourmid/pngtree-shiv-hindi-calligraphy-brush-illustration-png-image_4377942.png"
           type="image/x-icon"
         />
-        <link rel="icon" href="https://lh5.googleusercontent.com/p/AF1QipOodfsaUzJn_6fOnrfXtX7phjw9dSFci8laNclY" type="image/x-icon" />
+        <link rel="icon" href="https://img.myloview.com/murals/art-artwork-background-black-blessing-culture-decorated-decoration-deity-design-devotion-festival-god-graphic-hindu-hinduism-india-indian-logo-lord-maha-maha-shivratri-mahadev-m-400-236118854.jpg" type="image/x-icon" />
       </Head>
       <Component {...pageProps} />
     </Fragment>
