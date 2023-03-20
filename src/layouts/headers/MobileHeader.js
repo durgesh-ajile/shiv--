@@ -20,7 +20,7 @@ const MobileHeader = ({ closeMobileHeader }) => {
         <div className="nav-logo">
           <Link href="/">
             <a>
-              <img src="https://lh5.googleusercontent.com/p/AF1QipOodfsaUzJn_6fOnrfXtX7phjw9dSFci8laNclY" alt="" title="" />
+              <img src="https://img.myloview.com/murals/art-artwork-background-black-blessing-culture-decorated-decoration-deity-design-devotion-festival-god-graphic-hindu-hinduism-india-indian-logo-lord-maha-maha-shivratri-mahadev-m-400-236118854.jpg" alt="" title="" />
             </a>
           </Link>
         </div>
